@@ -1,0 +1,11 @@
+https://learning.oreilly.com/videos/terraform-in-aws/9780135378618/9780135378618-TCF1_01_02_03/
+
+git clone 
+https://github.com/daveprowse/tac-course.git 
+
+doc 
+https://developer.hashicorp.com/terraform/docs 
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs 
+
+https://registry.terraform.io/browse/providers

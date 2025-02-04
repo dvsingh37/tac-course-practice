@@ -1,0 +1,8 @@
+d_region        = "ap-south-1"
+d_user_cidr     = "10.0.0.0/16"
+d_user_vpc      = "dv_vpc"
+d_cidr          = "10.0.0.0/27"
+d_subnet_name   = "dvsubnet"
+d_ami           = "ami-05fa46471b02db0ce"
+d_instance_type = "t2.micro"
+d_instance_name = "dvinstance"
